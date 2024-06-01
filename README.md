@@ -56,7 +56,7 @@ https://github.com/HarinduChira/Library-Management-System-CLI/assets/95718494/0c
 
 ![image](https://github.com/HarinduChira/Library-Management-System-CLI/assets/95718494/b86a7fb5-5fc6-4206-8e9b-6e6a9292ac02)
 
-![image](https://github.com/HarinduChira/Library-Management-System-CLI/assets/95718494/7522b455-2824-4109-a26b-6dd777e24cac)
+![image](https://github.com/HarinduChira/Library-Management-System-CLI/assets/95718494/29261f30-b90d-48cb-9217-f6c837d25a62)
 
 ![image](https://github.com/HarinduChira/Library-Management-System-CLI/assets/95718494/0bdaa3b2-96f2-4b10-8c70-85bd411c3255)
 
