@@ -1,0 +1,64 @@
+------LIBRARY SYSTEM------
+
+User Id of Users
+	U0001 : Harindu Basnayake
+	U0002 : Suchintha Nath
+	U0003 : Adeesha Perera
+	U0004 : Samadi Perera
+	U0005 : Randika Aberathne
+
+----------- BOOK LIST -----------
+
+--------+---------------------------+-----------------------+-----------------------------------
+Book ID	|		Name	    |		Author	    |	Publisher
+--------+---------------------------+-----------------------+-----------------------------------
+B0001	: Publish News Letter       : Amit Garg             : MCA Department, MIET Meerut
+B0002	: Client Server Computing   : Lilit Kumar           : Sun India Publication, New Delhi
+B0003	: Mobile Computing          : Vinay Kumar Singhal   : K Nath & Sons,Meerut
+B0004	: Data Structure Using C    : Sharad Kumar Verma    : Thakur Publications Lucknow
+B0005	: Client Server Computing   : Sharad Kumar Verma    : Sun India Publications,New Delhi
+B0006	: Computer Networks         : Sharad Kumar Verma    : Sun India Publications,New Delhi
+B0007	: NET Framework & C#        : Sharad Kumar Verma    : Sun India Publications,New Delhi
+B0008	: CBOT                      : Gunjan Verma          : Thakur Publications
+B0009	: Computer Networks         : Saurabh Singhal       : Thakur Publications
+B0010	: Introduction to Computer  : Amit Garg             : Reader’s Zone
+--------+---------------------------+-----------------------+-----------------------------------
+
+----------- MAGAZINE LIST -----------
+
+------------+-----------------------+---------------------------+---------
+Magazine ID |		Name   	    |		Publisher	| Year
+------------+-----------------------+---------------------------+---------
+M0001	    : Navaliya              : Upali Newspapers(Pvt)Lmt 	: 2022
+M0002	    : Vidusara              : Upali Newspapers(Pvt)Lmt 	: 2022
+M0003	    : EDEX                  : Edex Magazines           	: 2022
+M0004	    : Hi!!                  : Wijaya Newspapers Lmt    	: 2021
+M0005	    : Sri Lankan Scientist  : WordPress and HitMag     	: 2019
+M0006	    : Sarasaviya            : Lake House Publications  	: 2021
+M0007	    : LMD                   : Media Services (Pvt) Lmt 	: 2021
+M0008	    : Mahamegha             : Mahamegha Media Networks 	: 2020
+M0009	    : Ketapath pawra        : Acroid (Pvt) Lmt         	: 2020
+M0010	    : Echelon               : Echelon Magazine         	: 2021
+------------+-----------------------+---------------------------+---------
+
+----------- JOURNAL LIST -----------
+
+------------+------------------------------------------------------------+---------------------------------------------------------------------------+--------
+Journal ID  |		Name						 |		Publisher			       			     | Volume
+------------+------------------------------------------------------------+---------------------------------------------------------------------------+--------
+J0001	    : AGRIEAST - Journal of Agricultural Sciences                : Faculty of Agriculture, Eastern University                                : 15
+J0002	    : Anuradhapura Medical Journal                               : Anuradhapura Clinical Society                                             : 16
+J0003	    : Applied Economics & Business                               : Department of Agribusiness Management of the Wayamba University           : 5
+J0004	    : Asian Journal of Management Studies                        : Faculty of Management Studies of the Sabaragamuwa University              : 1
+J0005	    : Bhumi, The Planning Research Journal                       : Town & Country Planning Research Institute of the University of Moratuwa  : 8
+J0006	    : Built-Environment Sri Lanka                                : Sri Lanka Institute of Architects                                         : 13
+J0007	    : Ceylon Journal of Medical Science                          : Faculty of Medicine, University of Colombo                                : 57
+J0008	    : FARU Journal                                               : Faculty of Architecture Research Unit, University of Moratuwa             : 8
+J0009	    : Galle Medical Journal                                      : Galle Medical Association                                                 : 26
+J0010	    : International Journal of Accounting and Business Finance   : Faculty of Management Studies and Finance, University of Jaffna           : 7
+------------+------------------------------------------------------------+---------------------------------------------------------------------------+--------
+
+
+
+
+
