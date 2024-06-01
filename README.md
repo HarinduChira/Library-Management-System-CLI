@@ -46,18 +46,20 @@ This project is designed to create an efficient and effective Library Management
 
 ![image](https://github.com/HarinduChira/Library-Management-System-CLI/assets/95718494/2e7b202b-9259-40b7-a653-88fb685077ba)
 
-![image](https://github.com/HarinduChira/Library-Management-System-CLI/assets/95718494/44bd9fab-a57a-4012-9bc7-21b97f90d57c)
+https://github.com/HarinduChira/Library-Management-System-CLI/assets/95718494/56728638-f391-4ac2-bbc3-3030a1175803
 
-![image](https://github.com/HarinduChira/Library-Management-System-CLI/assets/95718494/2d638a31-13c1-474f-a597-78124f286014)
+https://github.com/HarinduChira/Library-Management-System-CLI/assets/95718494/8d066d79-b5b0-4e44-ba3b-220a5d4a7061
 
-![image](https://github.com/HarinduChira/Library-Management-System-CLI/assets/95718494/6ecf4038-ed61-4d77-b57b-f55a22ef5cdb)
-
+https://github.com/HarinduChira/Library-Management-System-CLI/assets/95718494/0c20b1c2-5cc4-41c6-923e-3f3d6988e000
 
 ## Screenshots
 
 ![image](https://github.com/HarinduChira/Library-Management-System-CLI/assets/95718494/b86a7fb5-5fc6-4206-8e9b-6e6a9292ac02)
+
 ![image](https://github.com/HarinduChira/Library-Management-System-CLI/assets/95718494/7522b455-2824-4109-a26b-6dd777e24cac)
+
 ![image](https://github.com/HarinduChira/Library-Management-System-CLI/assets/95718494/0bdaa3b2-96f2-4b10-8c70-85bd411c3255)
+
 ![image](https://github.com/HarinduChira/Library-Management-System-CLI/assets/95718494/d8295d13-6299-4d75-a1a1-35e557ed4415)
 
 ## Documentation
