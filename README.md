@@ -65,9 +65,8 @@ https://github.com/HarinduChira/Library-Management-System-CLI/assets/95718494/0c
 ## Documentation
 
 [Project Report - Group 02.pdf](https://github.com/user-attachments/files/15521387/Project.Report.-.Group.02.pdf)
+
 [COSC PRESENTATION.pptx](https://github.com/user-attachments/files/15521389/COSC.PRESENTATION.pptx)
-
-
 
 ## Support
 
