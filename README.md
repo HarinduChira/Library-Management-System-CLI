@@ -44,7 +44,7 @@ This project is designed to create an efficient and effective Library Management
 
 ## Demo
 
-Insert gif or link to demo
+![image](https://github.com/HarinduChira/Library-Management-System-CLI/assets/95718494/2e7b202b-9259-40b7-a653-88fb685077ba)
 
 
 ## Screenshots
